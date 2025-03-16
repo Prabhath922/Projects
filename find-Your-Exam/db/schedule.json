@@ -1,0 +1,4118 @@
+[
+    {
+        "Course": "ACSC3703 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ACSC3720 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "ACSC3740 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "ARBC1022 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "ARBC2022 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "ASSC1801 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ASSC1801 W",
+        "Section": "02",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BAFD2005 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BAFD2006 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOC2300 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOC2610 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOC2610 W",
+        "Section": "02",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOC2610 W",
+        "Section": "03",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOC3300 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOC4305 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "BIOC4403 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "BIOC4701 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "BIOC4702 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "CHEB C140"
+    },
+    {
+        "Course": "BIOC5305 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "BIOC5403 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "BIOC5701 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "BIOC5702 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "CHEB C140"
+    },
+    {
+        "Course": "BIOL1011 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL1011 W",
+        "Section": "02",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL1021 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "BIOL2004 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL2020 W",
+        "Section": "01",
+        "Date": "2025-04-22",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL2030 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL2040 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL2060 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL3037 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "BIOL3044 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL3062 W",
+        "Section": "01",
+        "Date": "2025-04-22",
+        "Start Time": "07:00 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "BIOL3063 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1016"
+    },
+    {
+        "Course": "BIOL3101 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL3301 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "BIOL3371 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1016"
+    },
+    {
+        "Course": "BIOL3580 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL3601 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "BIOL4020 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "BIOL4661 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BIOL4662 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "BIOL5661 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "BUSI6106 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "CANA2002 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CANA2005 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CANA2233 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEE2201 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEE2203 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEE3522 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEE3525 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "CHEE3530 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEE3540 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEE3560 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEE4844 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "CHEE4873 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CHEM1012 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM1012 W",
+        "Section": "02",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM1012 W",
+        "Section": "03",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM1022 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM1022 W",
+        "Section": "02",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM1022 W",
+        "Section": "03",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM2101 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "CHEM2304 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM2402 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM3203 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 2107"
+    },
+    {
+        "Course": "CHEM3401 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1014"
+    },
+    {
+        "Course": "CHEM3601 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "CHEM4105 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CHEM4402 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "CHEM4602 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "CHEB C140"
+    },
+    {
+        "Course": "CHEM5402 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "CHEM5602 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "CHEB C140"
+    },
+    {
+        "Course": "CHIN3080 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "CIVL2200 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL3310 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL3515 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL3725 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL4100 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL4402 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "B Building B311 / D Building 406"
+    },
+    {
+        "Course": "CIVL4550 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL4560 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL6410 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CIVL6410 W",
+        "Section": "02",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "CLAS2506 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2130"
+    },
+    {
+        "Course": "CLAS2921 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "CLAS4802 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "CMSD5020 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "CMSD5260 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "CMSD6070 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "CHEB C140"
+    },
+    {
+        "Course": "COMM1101 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "07:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "02",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "03",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "04",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "05",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "06",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1102 W",
+        "Section": "07",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM1503 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "COMM2202 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM2203 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "COMM2504 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM2603 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 3080"
+    },
+    {
+        "Course": "COMM3105 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "COMM3105 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "COMM3116 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "COMM3116 W",
+        "Section": "02",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "COMM3203 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM3203 W",
+        "Section": "02",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM3409 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "COMM3500 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM3511 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "COMM4101 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4101 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4102 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4102 W",
+        "Section": "02",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4126 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4126 W",
+        "Section": "02",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4201 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "COMM4201 W",
+        "Section": "02",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "COMM4202 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "COMM4240 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM4240 W",
+        "Section": "02",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "COMM4510 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "CSCI1105 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1110 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1110 W",
+        "Section": "02",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1110 W",
+        "Section": "03",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1120 W",
+        "Section": "02",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1170 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1170 W",
+        "Section": "02",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1300 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1315 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI1315 W",
+        "Section": "02",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2100 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2110 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2113 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "CSCI2115 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "CSCI2122 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2122 W",
+        "Section": "02",
+        "Date": "2025-04-10",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2134 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "CSCI2141 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2141 W",
+        "Section": "02",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2170 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2202 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI2360 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI2690 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI3103 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI3110 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "CSCI3120 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI3124 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI3132 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI3137 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1 / Rowe 1020"
+    },
+    {
+        "Course": "CSCI3162 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "CSCI3171 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "CSCI4116 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI4117 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "CSCI4144 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "CSCI4145 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI4158 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI4163 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI4169 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI4174 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1 / Rowe 1028"
+    },
+    {
+        "Course": "CSCI4176 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "CSCI4193 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "CSCI5100 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 2107"
+    },
+    {
+        "Course": "CSCI5193 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "CSCI5408 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI5409 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "CSCI5501 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Computer Science 143"
+    },
+    {
+        "Course": "CSCI5708 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "CSCI6307 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CSCI6405 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "CSCI6708 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1 / Rowe 1028"
+    },
+    {
+        "Course": "CSCI6908 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "CTMP3201 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Archibald"
+    },
+    {
+        "Course": "DMUT1010 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 113"
+    },
+    {
+        "Course": "DMUT1020 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 113"
+    },
+    {
+        "Course": "DMUT2030 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 113"
+    },
+    {
+        "Course": "DMUT2040 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 113"
+    },
+    {
+        "Course": "DMUT2060 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 113"
+    },
+    {
+        "Course": "ECED2001 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED2200 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED3201 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED3301 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED3403 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED3511 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4071 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4350 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4404 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4421 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "B Building B311"
+    },
+    {
+        "Course": "ECED4460 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "GH Murray G Bldg G214"
+    },
+    {
+        "Course": "ECED4502 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "07:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4513 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4602 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4760 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ECED4901 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "B Building B227 / B228 / B229"
+    },
+    {
+        "Course": "ECON1101 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON1102 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON1102 W",
+        "Section": "02",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON1102 W",
+        "Section": "03",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON1102 W",
+        "Section": "04",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "ECON2064 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1016"
+    },
+    {
+        "Course": "ECON2200 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "12:00 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "ECON2200 W",
+        "Section": "02",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "ECON2201 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON2211 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "ECON2212 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON2216 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON2233 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON2400 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "ECON3310 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "ECON3320 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1014"
+    },
+    {
+        "Course": "ECON3330 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON3338 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON3339 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "ECON3349 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON3350 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON3426 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON3500 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 2107"
+    },
+    {
+        "Course": "ECON3700 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "ECON3900 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON5001 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ECON5330 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2016"
+    },
+    {
+        "Course": "EMSP2215 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "KNA KTS"
+    },
+    {
+        "Course": "EMSP2320 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "EMSP2340 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Alumni"
+    },
+    {
+        "Course": "EMSP2415 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Scotia"
+    },
+    {
+        "Course": "EMSP2480 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "EMSP3002 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Frazee"
+    },
+    {
+        "Course": "EMSP3250 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Scotia"
+    },
+    {
+        "Course": "EMSP3350 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Archibald"
+    },
+    {
+        "Course": "ENGI1203 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGI2103 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGI2204 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ENGL1005 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "12:00 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "ENGL1005 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL1015 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL1040 W",
+        "Section": "02",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL1050 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL2040 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "ENGL2209 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "ENGL2222 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL2235 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "ENGL2238 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL3005 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "ENGL3061 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGL3503 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGM1041 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENGM3052 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ENVE4000 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ENVE4402 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "B Building B310"
+    },
+    {
+        "Course": "ENVE4410 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "ENVS1200 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "ENVS2310 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ENVS3100 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2019"
+    },
+    {
+        "Course": "ENVS3200 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "ENVS3601 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "ENVS4902 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "LSC BIOL B8007"
+    },
+    {
+        "Course": "ERTH1030 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "ERTH1060 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ERTH1080 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ERTH1091 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "ERTH2002 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "LSC BIOL B2020A"
+    },
+    {
+        "Course": "ERTH2002 W",
+        "Section": "02",
+        "Date": "2025-04-16",
+        "Start Time": "12:00 PM",
+        "Location": "Mona Campbell 2107"
+    },
+    {
+        "Course": "ERTH2270 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "LSC C208"
+    },
+    {
+        "Course": "ERTH2380 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "ERTH3020 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "ERTH3140 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "ERTH3205 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "07:00 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "ERTH3270 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "LSC C208"
+    },
+    {
+        "Course": "ERTH3401 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "ERTH3420 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "ERTH3440 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ERTH3601 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "ERTH4102 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "LSC BIOL B8007"
+    },
+    {
+        "Course": "ERTH4110 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "ERTH4202 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "LSC BIOL B8007"
+    },
+    {
+        "Course": "ERTH4520 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "EURO2101 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "KNA KTS"
+    },
+    {
+        "Course": "FILM3301 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "LSC C238"
+    },
+    {
+        "Course": "FREN2201 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "GEOG1030 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "GEOG1035 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GEOG1060 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GEOG2006 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "Consult Department",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "GEOG2202 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GEOG2206 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GEOG3102 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "Consult Department",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "GEOG3440 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GEOG4520 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GWST2222 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "GWST2320 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "GWST2900 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "GWST3412 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Scotia"
+    },
+    {
+        "Course": "HIST1021 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "07:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "HIST1510 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "07:00 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "HIST1910 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2130"
+    },
+    {
+        "Course": "HIST2002 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "HIST2006 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "HIST2055 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "Consult Department",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "HIST2064 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1016"
+    },
+    {
+        "Course": "HIST2076 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Alumni"
+    },
+    {
+        "Course": "HIST2332 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "HIST2335 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "12:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "HIST2750 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "HIST2900 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "HIST2920 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "HIST3037 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "HIST3050 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "HIST3076 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Archibald"
+    },
+    {
+        "Course": "HIST3227 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "HPRO3250 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "HPRO3422 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "HSCE1010 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Fenwick 208"
+    },
+    {
+        "Course": "HSCE1030 W",
+        "Section": "60",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "HSCE2030 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 208"
+    },
+    {
+        "Course": "HSCE2040 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "HSTC1202 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Alumni"
+    },
+    {
+        "Course": "HSTC2212 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Alumni"
+    },
+    {
+        "Course": "HSTC2301 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "KNA KTS"
+    },
+    {
+        "Course": "HSTC2340 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Alumni"
+    },
+    {
+        "Course": "HSTC2400 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "07:00 PM",
+        "Location": "KNA KTS"
+    },
+    {
+        "Course": "HSTC3103 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "07:00 PM",
+        "Location": "KNA Scotia"
+    },
+    {
+        "Course": "HSTC3201 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Archibald"
+    },
+    {
+        "Course": "HSTC3350 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Archibald"
+    },
+    {
+        "Course": "HSTC3412 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Scotia"
+    },
+    {
+        "Course": "IENG4432 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "IENG4443 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "IENG4454 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "IENG4558 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "IENG4583 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "IENG6912 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Industrial Engi 310"
+    },
+    {
+        "Course": "INTD2002 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "INTD2106 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "JOUR2400 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "07:00 PM",
+        "Location": "KNA KTS"
+    },
+    {
+        "Course": "KINE2465 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "KINE3250 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "KINE3419 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "KINE3482 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "KINE4708 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "LEIS2127 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "MARI3063 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1016"
+    },
+    {
+        "Course": "MARI3101 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MARI3301 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "MARI3371 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1016"
+    },
+    {
+        "Course": "MARI4215 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1007"
+    },
+    {
+        "Course": "MARI4350 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "MARI4661 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MARI4662 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "MARI5350 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "MATH1000 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1010 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1010 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1010 W",
+        "Section": "03",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1030 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1060 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1060 W",
+        "Section": "02",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1060 W",
+        "Section": "03",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1060 W",
+        "Section": "04",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1215 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-2"
+    },
+    {
+        "Course": "MATH1215 W",
+        "Section": "02",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-2"
+    },
+    {
+        "Course": "MATH1215 W",
+        "Section": "03",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-2"
+    },
+    {
+        "Course": "MATH1280 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH1290 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2002 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2040 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2051 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2060 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2080 W",
+        "Section": "02",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "MATH2113 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "MATH2135 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2300 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH2505 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH3032 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "MATH3045 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 2107"
+    },
+    {
+        "Course": "MATH3080 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 2107"
+    },
+    {
+        "Course": "MATH3120 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH3370 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH3380 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH3460 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH3502 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "MATH3700 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "MATH3900 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MATH4020 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Chase 319"
+    },
+    {
+        "Course": "MATH4070 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "MATH4116 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Comp Sci 127"
+    },
+    {
+        "Course": "MATH5020 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Chase 319"
+    },
+    {
+        "Course": "MATH5070 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "MECH2400 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH3010 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH3100 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH3500 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH3810 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH3905 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4115 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4120 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4210 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4230 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4300 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "12:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4444 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4540 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4850 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4900 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "07:00 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MECH4950 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Sexton Gym"
+    },
+    {
+        "Course": "MGMT1101 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "07:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "02",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "03",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "04",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "05",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "06",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1102 W",
+        "Section": "07",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT1501 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MGMT2304 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "MGMT2304 W",
+        "Section": "02",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "MGMT2304 W",
+        "Section": "03",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "MGMT3201 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "MGMT3511 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "MICI1100 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MICI2100 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "12:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "MICI2115 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "MICI2400 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Tupper 12K01"
+    },
+    {
+        "Course": "MICI4115 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MICI4218 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MICI5115 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "MRIT4120 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 3080"
+    },
+    {
+        "Course": "MRIT4130 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 3080"
+    },
+    {
+        "Course": "MUSC2000 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Killam MacMechan"
+    },
+    {
+        "Course": "MUSC2020 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-2"
+    },
+    {
+        "Course": "NESC2140 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC2160 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC2470 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "NESC3137 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3162 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "07:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "NESC3170 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3190 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3227 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3270 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "NESC3271 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "NESC3371 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3371 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3371 W",
+        "Section": "03",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "NESC3770 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "OCEA2002 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "OCEA3270 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "LSC C208"
+    },
+    {
+        "Course": "OCEA3420 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "OCEA4000 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "OCEA4110 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "OCEA4140 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "OCEA4230 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "OCEA4505 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "OCEA5004 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "OCEA5110 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "OCEA5140 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "OCEA5230 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "OCEA5505 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "PATH2115 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "PATH3000 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PHAC1472 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "12:00 PM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAC4409 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Tupper Theatre C"
+    },
+    {
+        "Course": "PHAC4409 W",
+        "Section": "02",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Tupper Theatre C"
+    },
+    {
+        "Course": "PHAC5409 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Tupper Theatre C"
+    },
+    {
+        "Course": "PHAC5409 W",
+        "Section": "02",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Tupper Theatre C"
+    },
+    {
+        "Course": "PHAR1011 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "McCain 2018 / 2019 / 2022"
+    },
+    {
+        "Course": "PHAR1062 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "12:00 PM",
+        "Location": "McCain 2018 / 2019 / 2022"
+    },
+    {
+        "Course": "PHAR1074 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "12:00 PM",
+        "Location": "Burbidge 216 / 200E / 200F / 300 / 302 / 303 / 310"
+    },
+    {
+        "Course": "PHAR1074 W",
+        "Section": "02",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Burbidge 216 / 200E / 200F / 300 / 302 / 303 / 310"
+    },
+    {
+        "Course": "PHAR1075 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR1075 W",
+        "Section": "02",
+        "Date": "2025-04-10",
+        "Start Time": "12:00 PM",
+        "Location": "Burbidge 216 / 200E / 200F / 300 / 302 / 303 / 310"
+    },
+    {
+        "Course": "PHAR1075 W",
+        "Section": "03",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Burbidge 216 / 200E / 200F / 300 / 302 / 303 / 310"
+    },
+    {
+        "Course": "PHAR2014 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR2042 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR2052 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR2064 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR2074 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PHAR3014 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR3041 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR3052 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR3062 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "CHEB C170"
+    },
+    {
+        "Course": "PHAR3075 W",
+        "Section": "01",
+        "Date": "2025-04-13",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PHIL1820 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "PHIL2112 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "12:00 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "PHIL2130 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHIL2205 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "PHIL2220 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "PHIL2260 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHIL2810 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "PHIL3420 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1290 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1290 W",
+        "Section": "02",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1290 W",
+        "Section": "03",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1290 W",
+        "Section": "04",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1290 W",
+        "Section": "05",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1290 W",
+        "Section": "06",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1320 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC1600 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "PHYC2270 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "LSC C208"
+    },
+    {
+        "Course": "PHYC2310 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC2510 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC3210 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYC3590 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2162"
+    },
+    {
+        "Course": "PHYC4505 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "PHYC5505 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1107"
+    },
+    {
+        "Course": "PHYL1002 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYL1012 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYL2044 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PHYL3320 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "CHEB C266"
+    },
+    {
+        "Course": "PHYL3520 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "PHYT5214 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "PHYT5215 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "12:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "PHYT5460 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "PLAN2006 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "Consult Department",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "PLAN6007 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "Consult Department",
+        "Location": "Elec Engi C248"
+    },
+    {
+        "Course": "POLI1002 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI1065 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI2220 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI2302 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI2420 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "POLI2530 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI3206 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI3208 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "POLI3236 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Rowe 1011"
+    },
+    {
+        "Course": "POLI3360 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI3378 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "03:30 PM",
+        "Location": "Mona Campbell 1108"
+    },
+    {
+        "Course": "POLI3390 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "POLI3581 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "PSYO1012 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PSYO1012 W",
+        "Section": "02",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PSYO2080 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO2090 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO2140 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO2160 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO2220 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO2470 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PSYO3060 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "PSYO3060 W",
+        "Section": "02",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "PSYO3137 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3162 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "07:00 PM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "PSYO3170 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3190 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3227 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3270 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Rowe 1020"
+    },
+    {
+        "Course": "PSYO3271 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "PSYO3280 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "PSYO3371 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3371 W",
+        "Section": "02",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3371 W",
+        "Section": "03",
+        "Date": "2025-04-12",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PSYO3444 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "PSYO3770 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "PUAD5170 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "07:00 PM",
+        "Location": "Rowe 1009"
+    },
+    {
+        "Course": "RADT1020 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 208"
+    },
+    {
+        "Course": "RADT2010 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Fenwick 208"
+    },
+    {
+        "Course": "RADT2020 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Fenwick 210"
+    },
+    {
+        "Course": "RELS1001 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "RELS2205 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "McCain Aud-1"
+    },
+    {
+        "Course": "RELS2420 W",
+        "Section": "01",
+        "Date": "2025-04-14",
+        "Start Time": "03:30 PM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "RELS3201 W",
+        "Section": "01",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Archibald"
+    },
+    {
+        "Course": "RELS3250 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "08:30 AM",
+        "Location": "KNA Scotia"
+    },
+    {
+        "Course": "SCIE1507 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SCIE1507 W",
+        "Section": "02",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SCIE1507 W",
+        "Section": "03",
+        "Date": "2025-04-19",
+        "Start Time": "12:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SCIE2002 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "KNA Alumni"
+    },
+    {
+        "Course": "SOSA1002 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SOSA2005 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SOSA2008 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "07:00 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT1060 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT1060 W",
+        "Section": "02",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT1060 W",
+        "Section": "03",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT1060 W",
+        "Section": "04",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT2060 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT2080 W",
+        "Section": "02",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "STAT2300 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT2430 W",
+        "Section": "01",
+        "Date": "2025-04-16",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT3380 W",
+        "Section": "01",
+        "Date": "2025-04-10",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT3450 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT3460 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT3703 W",
+        "Section": "01",
+        "Date": "2025-04-12",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "STAT3720 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "STAT3740 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "SUST1001 W",
+        "Section": "01",
+        "Date": "2025-04-17",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SUST1001 W",
+        "Section": "02",
+        "Date": "2025-04-21",
+        "Start Time": "08:30 AM",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "SUST2001 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SUST2001 W",
+        "Section": "02",
+        "Date": "2025-04-17",
+        "Start Time": "08:30 AM",
+        "Location": "McCain 2132"
+    },
+    {
+        "Course": "SUST3101 W",
+        "Section": "01",
+        "Date": "2025-04-11",
+        "Start Time": "08:30 AM",
+        "Location": "Dalplex"
+    },
+    {
+        "Course": "SUST3102 W",
+        "Section": "01",
+        "Date": "2025-04-19",
+        "Start Time": "Consult Department",
+        "Location": "Consult Department"
+    },
+    {
+        "Course": "THEA2012 W",
+        "Section": "01",
+        "Date": "2025-04-09",
+        "Start Time": "03:30 PM",
+        "Location": "Dunn 117"
+    },
+    {
+        "Course": "THEA3503 W",
+        "Section": "01",
+        "Date": "2025-04-15",
+        "Start Time": "03:30 PM",
+        "Location": "Dalplex"
+    }
+]

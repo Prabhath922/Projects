@@ -19,12 +19,16 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <header>
-            <H1>
+            <img class ="logo" src="images/dal-logo.png" alt="Dalhousie-University">
+            <Button id="dark-mode-toggle" onclick="darkMode()">🌙</Button>
+            <H1 class="heading">
                 Find Your Exam - Dalhousie University
             </H1>
         </header>
+        <div class="search">
         <input type="search" id="search" name="search" placeholder="Search for Exam">
         <input type="submit" name="submit" id="submit" onclick="getExam()">
+        </div>
         
     </body>
     <script src="js/script.js" async defer></script>

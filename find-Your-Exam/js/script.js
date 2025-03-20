@@ -27,3 +27,7 @@ function getExam(){
     })
     .catch(error => console.error('Error loading the JSON file:', error));
 }
+function darkMode() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  }

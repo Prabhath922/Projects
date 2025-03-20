@@ -1,3 +1,43 @@
-html{
+body {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.search{
     text-align: center;
+    padding: 10px;
+}
+header{
+    background-color: rgb(255, 204, 0);
+    align-items: center;
+    padding:5px;
+}
+
+.logo{
+    width: 75px;
+    vertical-align: auto;
+}
+footer{
+    text-align: center;
+}
+.heading{
+ text-align: center;
+}
+.dark-mode-toggle{
+    vertical-align:right;
+}
+#dark-mode-toggle {
+    background: black;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+#dark-mode-toggle:hover {
+    transform: scale(1.1);
 }

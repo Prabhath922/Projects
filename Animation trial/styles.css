@@ -1,0 +1,61 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #eafaf1;
+    color: #2c3e50;
+    margin: 0;
+    padding: 5px;
+  }
+  header{
+    background-color: black;
+    color:white;
+  }
+  h1 {
+    text-align: center;
+  }
+  .container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .list {
+    width: 45%;
+    padding: 20px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  }
+  .list h2 {
+    text-align: center;
+  }
+  .species {
+    margin: 15px 0;
+    padding: 10px;
+    border-left: 5px solid #7f8c8d;
+    background: #f9f9f9;
+    border-radius: 6px;
+    transition: transform 0.3s;
+  }
+  .species:hover {
+    transform: scale(1.03);
+    background: #f0f8ff;
+  }
+  .native .species {
+    border-color: #27ae60;
+  }
+  .invasive .species {
+    border-color: #e74c3c;
+  }
+  .species img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  .species-content {
+    display: flex;
+    align-items: center;
+  }
+  .species-info {
+    text-align: left;
+  }

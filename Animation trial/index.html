@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="script.js" async defer></script>
+    </body>
+</html>
+<body>
+<header>
+  <h1>🌿 Native vs Invasive Species</h1>
+  </header>
+  <div class="container">
+    <div class="list native">
+      <h2>✅ Native Species</h2>
+      <div class="species">
+        <div class="species-content">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Red_Maple_Tree.jpg/320px-Red_Maple_Tree.jpg" alt="Red Maple">
+          <div class="species-info">
+            <strong>Red Maple</strong><br>
+            Common tree found across North America.
+          </div>
+        </div>
+      </div>
+      <div class="species">
+        <div class="species-content">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg/320px-Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg" alt="Monarch Butterfly">
+          <div class="species-info">
+            <strong>Monarch Butterfly</strong><br>
+            Known for its epic migration and orange-black wings.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="list invasive">
+      <h2>❌ Invasive Species</h2>
+      <div class="species">
+        <div class="species-content">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Japanese_knotweed.jpg/320px-Japanese_knotweed.jpg" alt="Japanese Knotweed">
+          <div class="species-info">
+            <strong>Japanese Knotweed</strong><br>
+            Aggressive plant that damages ecosystems and buildings.
+          </div>
+        </div>
+      </div>
+      <div class="species">
+        <div class="species-content">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/European_Starling_Sturnus_vulgaris.jpg/320px-European_Starling_Sturnus_vulgaris.jpg" alt="European Starling">
+          <div class="species-info">
+            <strong>European Starling</strong><br>
+            Introduced bird species that outcompetes natives.
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="text-align: center; margin-top: 40px;">
+        <h2>🔍 Search Invasive Species on GISD</h2>
+        <input type="text" id="searchInput" placeholder="Enter species name or country" style="padding: 8px; width: 300px;">
+        <button onclick="searchGISD()" style="padding: 8px 15px;">Search</button>
+      </div>
+  </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+<h1>List of Invasive Species in Canada</h1>
+<div id="species-list"></div>
+
+<script>
+    async function loadInvasiveSpecies() {
+      const response = await fetch('https://api.gbif.org/v1/occurrence/search?country=CA&hasCoordinate=true&limit=10');
+      const data = await response.json();
+  
+      const container = document.getElementById('species-list');
+      container.innerHTML = ''; // Clear any previous content
+  
+      data.results.forEach(species => {
+        const div = document.createElement('div');
+        div.className = 'species';
+        div.innerHTML = `
+          <strong>${species.scientificName || 'Unknown'}</strong><br>
+          Location: ${species.decimalLatitude}, ${species.decimalLongitude}
+        `;
+        container.appendChild(div);
+      });
+    }
+  
+    loadInvasiveSpecies();
+  </script>
+</body>
+</html>

@@ -1,6 +1,4 @@
 import React from "react";
-// Supports weights 400-900
-import '@fontsource-variable/playfair-display';
 
 function Teams(){
     return(

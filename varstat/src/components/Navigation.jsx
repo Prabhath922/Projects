@@ -1,4 +1,11 @@
 import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { BrowserRouter,Routes,Route } from 'react-router-dom';
+import Home from './Home'
+import Athlete from './Athletes'
+import Sponsors from './Sponsors'
+import Teams from './Teams'
+import SignUp from './Sign-Up'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Nav() {
@@ -8,14 +15,17 @@ function Nav() {
 
       <div className="collapse navbar-collapse">
         <ul className="navbar-nav ms-auto">
-          <li className="nav-item">
-            <a className="nav-link" href="Athletes.jsx">Athletes</a>
+        <li className="nav-item">
+            <a className="nav-link" href="Sponsors.jsx">Sign-Up</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="Team.jsx">Teams</a>
+            <a className="nav-link" href="./Athletes.jsx">Athletes</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="Sponsors.jsx">Sponsors</a>
+            <a className="nav-link" href="./Team.jsx">Teams</a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" href="./Sponsors.jsx">Sponsors</a>
           </li>
         </ul>
       </div>

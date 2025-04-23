@@ -3,6 +3,7 @@ import Athletes from './components/Athletes'
 import Sponsors from './components/Sponsors'
 import Teams from './components/Teams'
 import Navigation from './components/Navigation'
+import Singup from './components/Sign-Up'
 import Home from './components/Home'
 import './App.css'
 
@@ -13,6 +14,11 @@ function App() {
     <>
       <div>
         <Home/>
+        <Teams>
+        </Teams>
+        <Sponsors/>
+        <Athletes/>
+        <Singup/>
       </div>
     </>
   )

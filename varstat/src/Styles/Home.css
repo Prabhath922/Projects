@@ -1,4 +1,5 @@
-  .homepage {
+/* HomePage.css */
+.homepage {
     height: 100vh;
     display: flex;
     overflow: hidden;
@@ -7,7 +8,6 @@
     opacity: 1;
   }
   
-  /* Base section */
   .section {
     flex: 1;
     position: relative;
@@ -16,10 +16,9 @@
     align-items: center;
     justify-content: center;
     transition: transform 0.3s ease, filter 0.3s ease;
-    margin: 0; /* Remove any margin to ensure no space between sections */
+    margin: 0;
   }
   
-  /* Mature sporty colors */
   .athlete {
     background: linear-gradient(135deg, #0a2342, #1e3d59);
     clip-path: polygon(0 0, 100% 0, 75% 100%, 0% 100%);
@@ -35,7 +34,6 @@
     clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
   }
   
-  /* Hidden by default */
   .label {
     position: absolute;
     font-size: 5vw;
@@ -45,32 +43,28 @@
     z-index: 10;
     text-transform: uppercase;
     pointer-events: none;
-    white-space: nowrap; /* Prevents the text from wrapping */
+    white-space: nowrap;
     text-align: center;
   }
   
-  /* Show label on hover */
   .section:hover .label {
     opacity: 1;
     transform: scale(0.75);
   }
   
-  /* Zoom section slightly */
   .section:hover {
     transform: scale(1.02);
     filter: brightness(1.15);
   }
   
-  /* Mobile tweaks */
   @media screen and (max-width: 768px) {
     .label {
       font-size: 10vw;
     }
   }
   
-  /* Ensure the label text is centered and doesn't overflow */
   .section .label {
-    max-width: 100%; /* Keeps text within the section */
+    max-width: 100%;
     padding: 10px;
   }
   

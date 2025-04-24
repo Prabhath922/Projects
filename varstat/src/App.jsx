@@ -14,8 +14,7 @@ function App() {
     <>
       <div>
         <Home/>
-        <Teams>
-        </Teams>
+        <Teams/>
         <Sponsors/>
         <Athletes/>
         <Singup/>

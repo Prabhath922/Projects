@@ -1,26 +1,20 @@
-import { useState } from 'react'
-import Athletes from './components/Athletes'
-import Sponsors from './components/Sponsors'
-import Teams from './components/Teams'
-import Navigation from './components/Navigation'
-import Singup from './components/Sign-Up'
-import Home from './components/Home'
-import './App.css'
+import { Routes, Route } from 'react-router-dom'; 
+import HomePage from './components/Home';
+import SignUp from './components/Sign-Up';
+import Athletes from './components/Athletes';
+import Sponsors from './components/Sponsors';
+import Teams from './components/Teams';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
-        <Home/>
-        <Teams/>
-        <Sponsors/>
-        <Athletes/>
-        <Singup/>
-      </div>
-    </>
-  )
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/sign-up" element={<SignUp />} />
+        <Route path="/athletes" element={<Athletes />} />
+        <Route path="/teams" element={<Teams />} />
+        <Route path="/sponsors" element={<Sponsors />} />
+      </Routes>
+  );
 }
 
-export default App
+export default App;

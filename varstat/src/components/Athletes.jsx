@@ -15,7 +15,7 @@ function Addathlete() {
     try {
       await addDoc(collection(db, "athletes"), {
         athlete,
-        playerStats: athlete.playerStats.split(',').map(p => p.trim()) 
+        playerStats: athlete.playerStats.split(',').map(p => p.trim()) // 
       });
       alert("athlete added successfully!");
       setathlete({ athleteName: "", sport: "", teamName: "", playerStats: "" });

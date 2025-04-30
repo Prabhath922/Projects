@@ -1,0 +1,5 @@
+City,Population,Avg_Rainfall_mm_per_year,Treatment_Efficiency
+Halifax,440000,1200,0.60
+Vancouver,675000,1400,0.75
+Toronto,3000000,800,0.70
+Montreal,1700000,950,0.65

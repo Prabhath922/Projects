@@ -1,19 +1,26 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; 
-import { useAuth0 } from '@auth0/auth0-react';  // Import the useAuth0 hook
+import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import SignOut from './Sign-Out';
 
 function Nav() {
-  const { loginWithRedirect, logout, isAuthenticated } = useAuth0(); // Get login, logout, and isAuthenticated from Auth0
-
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-4">
-      <Link className="navbar-brand" to="/">SYMBOL</Link> 
+      <Link className="navbar-brand" to="/">Home</Link>
 
-      <div className="collapse navbar-collapse">
+      {/* Hamburger toggle button */}
+      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span className="navbar-toggler-icon"></span>
+      </button>
+
+      {/* Collapsible menu */}
+      <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav ms-auto">
           <li className="nav-item">
-            <Link className="nav-link" to="/sign-up">Sign-Up</Link> 
+            <Link className="nav-link" to="/sign-up">Sign-Up</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/login">Login</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="/athletes">Athletes</Link>
@@ -24,23 +31,8 @@ function Nav() {
           <li className="nav-item">
             <Link className="nav-link" to="/sponsors">Sponsors</Link>
           </li>
-          {/* Login/Logout button based on authentication state */}
           <li className="nav-item">
-            {isAuthenticated ? (
-              <button
-                className="btn btn-outline-light ms-2"
-                onClick={() => logout({ returnTo: window.location.origin })}
-              >
-                Log Out
-              </button>
-            ) : (
-              <button
-                className="btn btn-outline-light ms-2"
-                onClick={() => loginWithRedirect()}
-              >
-                Log In
-              </button>
-            )}
+            <Link className="nav-link" to="/sign-out">Sign-Out</Link>
           </li>
         </ul>
       </div>

@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { db } from '../Backend/firebase';
 import { collection, addDoc } from "firebase/firestore";
+import Nav from './Navigation'
 
 function AddTeam() {
   const [team, setTeam] = useState({
@@ -25,6 +26,8 @@ function AddTeam() {
   };
 
   return (
+    <>
+    <Nav/>
     <form onSubmit={handleSubmit}>
       <input
         type="text"
@@ -57,6 +60,7 @@ function AddTeam() {
       <br />
       <button type="submit">Add Team</button>
     </form>
+    </>
   );
 }
 

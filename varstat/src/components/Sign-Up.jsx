@@ -1,11 +1,15 @@
 import React, { useState } from 'react';
+import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';
+import Nav from './Navigation'
+<Nav/>
 
 function SignupForm() {
   const [formData, setFormData] = useState({
-    username: '',
     email: '',
     password: '',
   });
+
+  const [signupResult, setSignupResult] = useState('');
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -15,24 +19,25 @@ function SignupForm() {
     }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Handle form submission logic here (e.g., sending data to an API)
-    console.log('Form Data:', formData);
+
+    const { email, password } = formData;
+    const auth = getAuth();
+
+    try {
+      const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+      setSignupResult('Signup successful!');
+      console.log('New user:', userCredential.user);
+    } catch (error) {
+      setSignupResult(`Signup failed: ${error.message}`);
+    }
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <div>
-        <label htmlFor="username">Username:</label>
-        <input
-          type="text"
-          id="username"
-          name="username"
-          value={formData.username}
-          onChange={handleChange}
-        />
-      </div>
+    <><Nav/>
+    <form className="signupForm" onSubmit={handleSubmit}>
+      <h2>Sign Up</h2>
       <div>
         <label htmlFor="email">Email:</label>
         <input
@@ -41,20 +46,25 @@ function SignupForm() {
           name="email"
           value={formData.email}
           onChange={handleChange}
+          required
         />
       </div>
       <div>
-        <label htmlFor="password">Password:</label>
+        <label htmlFor="password">Password (6+ characters):</label>
         <input
           type="password"
           id="password"
           name="password"
           value={formData.password}
           onChange={handleChange}
+          required
+          minLength={6}
         />
       </div>
       <button type="submit">Sign Up</button>
+      <div style={{ marginTop: '1rem', color: 'blue' }}>{signupResult}</div>
     </form>
+    </>
   );
 }
 

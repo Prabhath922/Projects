@@ -48,11 +48,11 @@
       console.error(err);
     }
   }
-  window.onload = loadSpeciesByUserLocation;
   
   window.onload = loadInvasiveSpecies;
   fetch('https://api.gbif.org/v1/occurrence/search?country=CA&hasCoordinate=true&taxon_key=1000000')
   .then(res => res.json())
   .then(data => {
-    console.log(data.results); // You get an array of species
+    console.log(data.results); 
   });
+  

@@ -2,7 +2,6 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom'; // <-- import this!
 import Nav from '../components/Navigation';
 import '../Styles/Home.css';
-
 function HomePage() {
   const navigate = useNavigate(); // <-- hook to navigate programmatically
 

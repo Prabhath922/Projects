@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { db } from '../Backend/firebase';
 import { collection, addDoc } from "firebase/firestore";
+import Nav from './Navigation'
+
 
 function AddSponsor() {
   const [sponsors, setSponsor] = useState({
@@ -25,6 +27,8 @@ function AddSponsor() {
   };
 
   return (
+    <>
+    <Nav/>
     <form onSubmit={handleSubmit}>
       <input
         type="text"
@@ -57,6 +61,7 @@ function AddSponsor() {
       <br />
       <button type="submit">Add Sponsor</button>
     </form>
+    </>
   );
 }
 
